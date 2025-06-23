@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drambldoor
 - 👀 I’m interested in knowledge and work
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning HTML, CSS
 - 📫 How to reach me ? Almoust in every social network
 - ⚡ Fun fact: just write to me and know my facts and goals better. I'm not bitting :)
 
